@@ -2,6 +2,14 @@
 
 See [Cloud Development](http://docs.feedhenry.com/v2/cloud_development.html) page about how to develop cloud app.
 
+
+# REST Operations
+
+ ## Login
+    cloud/login?username=??? -->  /fuse/techstock/getcustomer?username
+ ## 
+
+
 # Tests
 
 All the tests are in the "tests/" directory. The cloud app is using Whiskey as the test runner. 
