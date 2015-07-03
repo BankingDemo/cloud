@@ -19,6 +19,7 @@ logs
 results
 build
 .grunt
+.project
 node_modules
 *~
 .idea
